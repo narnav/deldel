@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deldel/static/css/main.073c9b0a.css",
+    "main.js": "/deldel/static/js/main.84978098.js",
+    "index.html": "/deldel/index.html",
+    "main.073c9b0a.css.map": "/deldel/static/css/main.073c9b0a.css.map",
+    "main.84978098.js.map": "/deldel/static/js/main.84978098.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.84978098.js"
+  ]
+}
